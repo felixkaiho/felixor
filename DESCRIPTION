@@ -1,0 +1,19 @@
+Package: felixor
+Type: Package
+Title: Calculate odds ratios and confidence intervals
+Version: 0.1.0
+Author: Felix Ho
+Maintainer: Felix Ho <fekaiho@gmail.com>
+Description: Returns the odds ratios and confidence intervals from a vector of
+    coefficient estimates and a vector of standard errors.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    stats
