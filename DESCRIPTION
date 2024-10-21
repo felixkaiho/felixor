@@ -17,3 +17,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stats
+URL: https://github.com/felixkaiho/felixor
+BugReports: https://github.com/felixkaiho/felixor/issues
